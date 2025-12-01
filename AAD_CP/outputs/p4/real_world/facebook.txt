@@ -1,0 +1,7 @@
+
+--- Graph Input Complete ---
+Graph has 4039 nodes.
+
+--- Naive Algorithm Results ---
+Articulation Points: {0, 107, 348, 414, 594, 686, 698, 1684, 1912, 3437, 3980}
+Number of BCCs: Not computed by this naive algorithm.

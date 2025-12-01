@@ -1,0 +1,45 @@
+
+--- Chain decomposition algorithm's results ---
+Total Biconnected Components (BCCs) found: 40
+BCC 1 (Bridge): {(12, 13)}
+BCC 2 (Bridge): {(11, 12)}
+BCC 3 (Bridge): {(10, 11)}
+BCC 4 (Bridge): {(9, 10)}
+BCC 5 (Bridge): {(8, 9)}
+BCC 6 (Bridge): {(7, 8)}
+BCC 7 (Bridge): {(6, 7)}
+BCC 8 (Bridge): {(5, 6)}
+BCC 9 (Bridge): {(1, 5)}
+BCC 10 (Bridge): {(0, 1)}
+BCC 11 (Bridge): {(21, 22)}
+BCC 12 (Bridge): {(20, 21)}
+BCC 13 (Bridge): {(19, 20)}
+BCC 14 (Bridge): {(18, 19)}
+BCC 15 (Bridge): {(17, 18)}
+BCC 16 (Bridge): {(16, 17)}
+BCC 17 (Bridge): {(15, 16)}
+BCC 18 (Bridge): {(14, 15)}
+BCC 19 (Bridge): {(2, 14)}
+BCC 20 (Bridge): {(0, 2)}
+BCC 21 (Bridge): {(30, 31)}
+BCC 22 (Bridge): {(29, 30)}
+BCC 23 (Bridge): {(28, 29)}
+BCC 24 (Bridge): {(27, 28)}
+BCC 25 (Bridge): {(26, 27)}
+BCC 26 (Bridge): {(25, 26)}
+BCC 27 (Bridge): {(24, 25)}
+BCC 28 (Bridge): {(23, 24)}
+BCC 29 (Bridge): {(3, 23)}
+BCC 30 (Bridge): {(0, 3)}
+BCC 31 (Bridge): {(39, 40)}
+BCC 32 (Bridge): {(38, 39)}
+BCC 33 (Bridge): {(37, 38)}
+BCC 34 (Bridge): {(36, 37)}
+BCC 35 (Bridge): {(35, 36)}
+BCC 36 (Bridge): {(34, 35)}
+BCC 37 (Bridge): {(33, 34)}
+BCC 38 (Bridge): {(32, 33)}
+BCC 39 (Bridge): {(4, 32)}
+BCC 40 (Bridge): {(0, 4)}
+
+Articulation Points (Cut Vertices): 0 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 23 24 25 26 27 28 29 30 32 33 34 35 36 37 38 39 

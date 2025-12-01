@@ -1,0 +1,7 @@
+
+--- Chain decomposition algorithm's results ---
+Total Biconnected Components (BCCs) found: 2
+BCC 1 (Triangle 1): {(0, 1), (0, 3), (1, 2), (2, 3)}
+BCC 2 (Triangle 2): {(4, 5), (4, 7), (5, 6), (6, 7)}
+
+Articulation Points (Cut Vertices): 

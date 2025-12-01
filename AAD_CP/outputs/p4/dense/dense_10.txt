@@ -1,0 +1,7 @@
+
+--- Graph Input Complete ---
+Graph has 25 nodes.
+
+--- Naive Algorithm Results ---
+Articulation Points: None
+Number of BCCs: Not computed by this naive algorithm.

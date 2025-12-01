@@ -1,0 +1,13 @@
+
+--- Chain decomposition algorithm's results ---
+Total Biconnected Components (BCCs) found: 8
+BCC 1 (Bridge): {(17, 28)}
+BCC 2 (Bridge): {(11, 16)}
+BCC 3 (Bridge): {(11, 18)}
+BCC 4 (Bridge): {(4, 9)}
+BCC 5 (Bridge): {(6, 13)}
+BCC 6 (Bridge): {(7, 15)}
+BCC 7 (Bridge): {(5, 27)}
+BCC 8 (Triangle 8): {(0, 1), (0, 5), (0, 6), (1, 2), (1, 4), (1, 10), (1, 12), (1, 24), (1, 25), (2, 3), (2, 8), (2, 24), (3, 8), (3, 11), (4, 14), (5, 7), (5, 17), (6, 20), (7, 17), (7, 26), (8, 21), (8, 29), (10, 12), (10, 21), (11, 19), (12, 14), (19, 25), (20, 22), (20, 23), (20, 26), (21, 22), (23, 29), (24, 26)}
+
+Articulation Points (Cut Vertices): 4 5 6 7 11 17 

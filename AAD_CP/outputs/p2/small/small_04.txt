@@ -1,0 +1,12 @@
+
+--- Tarjan-Vishkin Algorithm's results ---
+Total Biconnected Components (BCCs) found: 4
+BCC 1 (Triangle): {(0, 1), (0, 2), (1, 2)}
+BCC 2 (Bridge): {(2, 3)}
+BCC 3 (Bridge): {(3, 4)}
+BCC 4 (Bridge): {(4, 5)}
+
+Articulation Points (Cut Vertices): 2 3 4 
+
+Algorithm 2 (Tarjan-Vishkin) sequential simulation finished.
+Execution time: 3 microseconds

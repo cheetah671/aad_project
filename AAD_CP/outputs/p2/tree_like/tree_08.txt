@@ -1,0 +1,35 @@
+
+--- Tarjan-Vishkin Algorithm's results ---
+Total Biconnected Components (BCCs) found: 27
+BCC 1 (Bridge): {(0, 1)}
+BCC 2 (Bridge): {(1, 2)}
+BCC 3 (Bridge): {(2, 3)}
+BCC 4 (Bridge): {(3, 4)}
+BCC 5 (Bridge): {(4, 5)}
+BCC 6 (Bridge): {(5, 6)}
+BCC 7 (Bridge): {(6, 7)}
+BCC 8 (Bridge): {(7, 8)}
+BCC 9 (Bridge): {(8, 9)}
+BCC 10 (Bridge): {(9, 10)}
+BCC 11 (Bridge): {(10, 11)}
+BCC 12 (Bridge): {(11, 12)}
+BCC 13 (Bridge): {(12, 13)}
+BCC 14 (Bridge): {(0, 14)}
+BCC 15 (Bridge): {(1, 15)}
+BCC 16 (Bridge): {(2, 16)}
+BCC 17 (Bridge): {(3, 17)}
+BCC 18 (Bridge): {(4, 18)}
+BCC 19 (Bridge): {(5, 19)}
+BCC 20 (Bridge): {(6, 20)}
+BCC 21 (Bridge): {(7, 21)}
+BCC 22 (Bridge): {(8, 22)}
+BCC 23 (Bridge): {(9, 23)}
+BCC 24 (Bridge): {(10, 24)}
+BCC 25 (Bridge): {(11, 25)}
+BCC 26 (Bridge): {(12, 26)}
+BCC 27 (Bridge): {(13, 27)}
+
+Articulation Points (Cut Vertices): 0 1 2 3 4 5 6 7 8 9 10 11 12 13 
+
+Algorithm 2 (Tarjan-Vishkin) sequential simulation finished.
+Execution time: 10 microseconds

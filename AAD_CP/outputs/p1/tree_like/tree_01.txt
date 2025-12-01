@@ -1,0 +1,19 @@
+
+--- Tarjan's Algorithm Results ---
+Total Biconnected Components (BCCs) found: 14
+BCC 1 (Bridge): {(3, 7)}
+BCC 2 (Bridge): {(3, 8)}
+BCC 3 (Bridge): {(1, 3)}
+BCC 4 (Bridge): {(4, 9)}
+BCC 5 (Bridge): {(4, 10)}
+BCC 6 (Bridge): {(1, 4)}
+BCC 7 (Bridge): {(0, 1)}
+BCC 8 (Bridge): {(5, 11)}
+BCC 9 (Bridge): {(5, 12)}
+BCC 10 (Bridge): {(2, 5)}
+BCC 11 (Bridge): {(6, 13)}
+BCC 12 (Bridge): {(6, 14)}
+BCC 13 (Bridge): {(2, 6)}
+BCC 14 (Bridge): {(0, 2)}
+
+Articulation Points (Cut Vertices): 0 1 2 3 4 5 6 
